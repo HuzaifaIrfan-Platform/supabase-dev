@@ -17,3 +17,5 @@ This is a minimal Docker Compose setup for self-hosting Supabase. Follow the ste
 
 Licensed under the GPL3 License, Copyright 2025 Huzaifa Irfan. [LICENSE](LICENSE)
 
+
+Last Updated on 2025-05-01
